@@ -1,0 +1,2 @@
+poetry init --name app_httprunner
+poetry add requests
